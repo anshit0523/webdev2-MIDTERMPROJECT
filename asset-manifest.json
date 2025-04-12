@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webdev2-MIDTERMPROJECT/static/css/main.0a916821.css",
+    "main.js": "/webdev2-MIDTERMPROJECT/static/js/main.3aabd1ee.js",
+    "index.html": "/webdev2-MIDTERMPROJECT/index.html",
+    "main.0a916821.css.map": "/webdev2-MIDTERMPROJECT/static/css/main.0a916821.css.map",
+    "main.3aabd1ee.js.map": "/webdev2-MIDTERMPROJECT/static/js/main.3aabd1ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a916821.css",
+    "static/js/main.3aabd1ee.js"
+  ]
+}
